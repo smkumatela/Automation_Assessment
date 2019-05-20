@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="92404" started-at="2019-05-16T19:57:38Z" finished-at="2019-05-16T19:59:10Z">
+  <suite name="Default suite" duration-ms="70954" started-at="2019-05-20T16:56:50Z" finished-at="2019-05-20T16:58:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="92404" started-at="2019-05-16T19:57:38Z" finished-at="2019-05-16T19:59:10Z">
+    <test name="Default test" duration-ms="70954" started-at="2019-05-20T16:56:50Z" finished-at="2019-05-20T16:58:01Z">
       <class name="iLAB_Driver_Script_Package.Driver_Script">
-        <test-method status="PASS" signature="launch_Browser_Setup()[pri:0, instance:iLAB_Driver_Script_Package.Driver_Script@91161c7]" name="launch_Browser_Setup" duration-ms="92383" started-at="2019-05-16T19:57:38Z" finished-at="2019-05-16T19:59:10Z">
+        <test-method status="PASS" signature="launch_Browser_Setup()[pri:0, instance:iLAB_Driver_Script_Package.Driver_Script@91161c7]" name="launch_Browser_Setup" duration-ms="70877" started-at="2019-05-20T16:56:50Z" finished-at="2019-05-20T16:58:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch_Browser_Setup -->

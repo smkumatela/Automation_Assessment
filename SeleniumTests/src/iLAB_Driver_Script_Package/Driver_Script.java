@@ -34,7 +34,7 @@ public class Driver_Script {
 		Populate_Form enterDetails = new Populate_Form(driver);
 		enterDetails.enterName("Songezo");
 		Thread.sleep(5000);
-		enterDetails.enterEmail("msengwana.mk@gmail.com");
+		enterDetails.enterEmail("automationAssessment@iLABQuality.com");
 		Thread.sleep(5000);
 		enterDetails.enterPhoneNumber("083 568 7859");
 		Thread.sleep(5000);
